@@ -11,8 +11,8 @@ Feel free to explore and contribute. Let's make this Git Command Center a global
 
 ## **Quick Links:**
 
-- [🇺🇸 English Documentation](docs/en/README.md)
-- [🇪🇸 Documentación en Español](docs/es/README.md)
+- [🇺🇸 English Documentation](docs/en/commands.md)
+- [🇪🇸 Documentación en Español](docs/es/commands.md)
 
 ## **Quick Start: Basic Commands**
 
@@ -29,7 +29,7 @@ Feel free to explore and contribute. Let's make this Git Command Center a global
 ## **Explore More: Complete Commands Reference**
 
 For an in-depth journey into Git commands with detailed explanations, arguments, and examples, check out:
-- [🇺🇸 Complete Git Commands Reference (English)](docs/en/commands_en.md)
-- [🇪🇸 Referencia de Comandos Git Completa (Español)](docs/es/commands_es.md)
+- [🇺🇸 Complete Git Commands Reference (English)](docs/en/commands.md)
+- [🇪🇸 Referencia de Comandos Git Completa (Español)](docs/es/commands.md)
 
 Feel free to explore, contribute, and let's make this Git Command Center the ultimate launchpad for developers worldwide! 🚀💻
