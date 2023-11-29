@@ -1,5 +1,5 @@
 # GitCommands-Reference
- A repository designed for observing well-organized Git commands.
+ Un repositorio diseñado para observar comandos de Git bien organizados.
 
 ## Comandos Básicos
 | Comando                                    | Descripción                                           | Ejemplo                                              |
@@ -25,27 +25,27 @@
 
 
 ## Comandos Remotos
-| Comando                                    | Descripción                                           | Ejemplo                                              |
-|--------------------------------------------|-------------------------------------------------------|------------------------------------------------------|
+| Comando                                    | Descripción                                           | Ejemplo                                                         |
+|--------------------------------------------|-------------------------------------------------------|-----------------------------------------------------------------|
 | `git remote add nombre_remoto URL`         | Conecta un repositorio local a un remoto.             | `git remote add origin https://github.com/ejemplo/proyecto.git` |
-| `git push nombre_remoto nombre_rama`       | Sube cambios a una rama en un remoto.                 | `git push origin master`                                         |
+| `git push nombre_remoto nombre_rama`       | Sube cambios a una rama en un remoto.                 | `git push origin master`                                        |
 | `git pull nombre_remoto nombre_rama`       | Descarga y fusiona cambios de un remoto.              | `git pull origin master`                                        |
 
 
 
 ## Comandos de Configuración
-| Comando                                    | Descripción                                           | Ejemplo                                              |
-|--------------------------------------------|-------------------------------------------------------|------------------------------------------------------|
+| Comando                                    | Descripción                                           | Ejemplo                                                     |
+|--------------------------------------------|-------------------------------------------------------|-------------------------------------------------------------|
 | `git config <sección>.<variable> valor`    | Configura opciones específicas de sistema, usuario o repositorio.| `git config user.name "Tu Nombre"`               |
-| `git config --list`                        | Obtiene información de configuración.                  | `git config --list`                                  |
+| `git config --list`                        | Obtiene información de configuración.                  | `git config --list`                                        |
 
 
 
 ## Comandos Avanzados
-| Comando                                    | Descripción                                           | Ejemplo                                              |
-|--------------------------------------------|-------------------------------------------------------|------------------------------------------------------|
-| `git stash`                                | Almacena temporalmente los cambios no comprometidos.  | `git stash`                                          |
-| `git stash save "Mensaje"`                 | Almacena cambios con un mensaje descriptivo.          | `git stash save "Cambios temporales para nueva funcionalidad"` |
-| `git stash list`                           | Lista todas las entradas almacenadas en el stash.      | `git stash list`                                     |
-| `git stash pop`                            | Aplica y elimina la última entrada en el stash.        | `git stash pop`                                      |
-| `git reset --hard HEAD`                    | Desecha cambios locales y mueve HEAD al último commit. | `git reset --hard HEAD`                              |
+| Comando                                    | Descripción                                            | Ejemplo                                                        |
+|--------------------------------------------|--------------------------------------------------------|----------------------------------------------------------------|
+| `git stash`                                | Almacena temporalmente los cambios no comprometidos.   | `git stash`                                                    |
+| `git stash save "Mensaje"`                 | Almacena cambios con un mensaje descriptivo.           | `git stash save "Cambios temporales para nueva funcionalidad"` |
+| `git stash list`                           | Lista todas las entradas almacenadas en el stash.      | `git stash list`                                               |
+| `git stash pop`                            | Aplica y elimina la última entrada en el stash.        | `git stash pop`                                                |
+| `git reset --hard HEAD`                    | Desecha cambios locales y mueve HEAD al último commit. | `git reset --hard HEAD`                                        |
