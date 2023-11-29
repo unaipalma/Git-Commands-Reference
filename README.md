@@ -23,7 +23,7 @@
 
 ## Remote Commands
 | Command                                    | Description                                           | Example                                              |
-|--------------------------------------------|-------------------------------------------------------|------------------------------------------------------|
+|-----------------------------------------------------|-------------------------------------------------------|------------------------------------------------------|
 | `git remote add remote_name URL`           | Connect a local repository to a remote.              | `git remote add origin https://github.com/example/project.git` |
 | `git push remote_name branch_name`         | Push changes to a branch on a remote.                | `git push origin master`                             |
 | `git pull remote_name branch_name`         | Fetch and merge changes from a remote branch.        | `git pull origin master`                             |
