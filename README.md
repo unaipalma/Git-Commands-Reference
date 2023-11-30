@@ -32,4 +32,15 @@ For an in-depth journey into Git commands with detailed explanations, arguments,
 - [🇺🇸 Complete Git Commands Reference (English)](docs/en/commands.md)
 - [🇪🇸 Referencia de Comandos Git Completa (Español)](docs/es/commands.md)
 
+## **Translations:**
+
+- [🇨🇳 完整的Git命令参考（简体中文）](docs/zh/commands.md)
+- [🇫🇷 Référence complète des commandes Git (Français)](docs/fr/commands.md)
+- [🇩🇪 Komplette Git-Befehlsreferenz (Deutsch)](docs/de/commands.md)
+- [🇵🇹 Referência completa de comandos Git (Português)](docs/pt/commands.md)
+- [🇮🇹 Riferimento completo dei comandi Git (Italiano)](docs/it/commands.md)
+- [🇷🇺 Полное руководство по командам Git (Русский)](docs/ru/commands.md)
+- [🇯🇵 完全なGitコマンドリファレンス（日本語）](docs/ja/commands.md)
+- [🇰🇷 완전한 Git 명령어 참조 (한국어)](docs/ko/commands.md)
+
 Feel free to explore, contribute, and let's make this Git Command Center the ultimate launchpad for developers worldwide! 🚀💻
